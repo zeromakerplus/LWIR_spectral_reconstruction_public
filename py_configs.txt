@@ -1,0 +1,7 @@
+cuda = 0
+
+lr_init = 1e-5
+print_every = 10
+evaluate_every = 100
+max_steps = 5000
+batchsize = 100
